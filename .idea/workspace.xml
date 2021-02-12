@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="339d1798-5d9c-4380-aeee-fe9c46301a60" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oLm7WFhrujqPK1GLbps7YUdxGP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\BEST\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="339d1798-5d9c-4380-aeee-fe9c46301a60" name="Default Changelist" comment="" />
+      <created>1613074081221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613074081221</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="86" y="0" key="CommitChangelistDialog2" timestamp="1613132191687">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="86" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1613132191687" />
+    <state x="399" y="94" key="FileChooserDialogImpl" timestamp="1613132751722">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1613132751722" />
+    <state x="489" y="237" key="Github.ShareDialog" timestamp="1613132725071">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="489" y="237" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1613132725071" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1613077542553">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1613077542553" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1613077542553">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1613077542553" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1613077542553">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1613077542553" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1613077542553">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1613077542553" />
+    <state x="120" y="0" key="SettingsEditor" timestamp="1613077010496">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="120" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1613077010496" />
+    <state x="232" y="72" key="Vcs.Push.Dialog.v2" timestamp="1613077078727">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="232" y="72" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1613077078727" />
+    <state x="0" y="0" width="587" height="680" key="find.popup" timestamp="1613076048498">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="587" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1613076048498" />
+    <state x="373" y="221" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1613132808151">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="373" y="221" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1613132808151" />
+    <state x="470" y="130" key="svn.repositoryBrowser" timestamp="1613132400905">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="470" y="130" key="svn.repositoryBrowser/0.0.1280.680@0.0.1280.680" timestamp="1613132400905" />
+    <state x="410" y="113" key="svn4idea.import.options" timestamp="1613132385032">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="410" y="113" key="svn4idea.import.options/0.0.1280.680@0.0.1280.680" timestamp="1613132385032" />
+  </component>
+</project>

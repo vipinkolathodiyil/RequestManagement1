@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout charset="UTF-8" pattern="%-5p %d [%t] %c: %m%n"/>
+        </Console>
+        
+        <!-- Server Log Appender -->
+        <RollingFile name="serverLogAppender" 
+        			 fileName="\C:\Users\Admin\Desktop\Logs\request-management-server.log"
+        			 filePattern="\C:\Users\Admin\Desktop\Logs\request-management-server-%d{yyyy-MM-dd}.log">
+        	<PatternLayout charset="UTF-8">
+				<pattern>%-5p %d [%t] %c: %m%n</pattern>
+			</PatternLayout>
+			<TimeBasedTriggeringPolicy/>
+        </RollingFile>
+        		
+		<!-- Cache Log Appender  -->
+		<RollingFile name="requestManagementFullfillmentAppender"
+        			 fileName="\C:\Users\Admin\Desktop\Logs\request-management.log"
+        			 filePattern="\C:\Users\Admin\Desktop\Logs\request-management-%d{yyyy-MM-dd}.log">
+			<PatternLayout charset="UTF-8">
+				<pattern>%-5p %d [%t] %c: %m%n</pattern>
+			</PatternLayout>
+			<TimeBasedTriggeringPolicy/>	
+		</RollingFile>
+			
+	</Appenders>
+	
+    <Loggers>
+		
+		<Logger name="com.sample.reqmanagement" additivity="false">
+			<AppenderRef ref="Console"/>
+			<AppenderRef ref="serverLogAppender"/>
+			<AppenderRef ref="requestManagementFullfillmentAppender"/>
+		</Logger>
+
+		<Root level="INFO">
+			<AppenderRef ref="Console"/>
+		</Root>
+
+    </Loggers>
+
+</Configuration>
